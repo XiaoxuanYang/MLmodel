@@ -1,0 +1,31 @@
+|ERROR|2018-07-09 09:51:53,573|Server reports an error: {'executed': False, 'error': 'Unauthorized'}.
+|ERROR|2018-07-09 09:53:23,617|Server reports an error: {'executed': False, 'error': 'Unauthorized'}.
+|ERROR|2018-07-09 09:59:09,360|Server reports an error: {'executed': False, 'error': 'Invalid from/to parameneters.'}.
+|ERROR|2018-07-09 09:59:55,029|Error in get_candles: Illegal period: h1.
+|ERROR|2018-07-09 10:00:08,029|Server reports an error: {'executed': False, 'error': 'Invalid from/to parameneters.'}.
+|ERROR|2018-07-09 10:10:41,742|Server reports an error: {'executed': False, 'error': 'Unauthorized'}.
+|ERROR|2018-07-09 10:10:41,760|Server reports an error: {'executed': False, 'error': 'Unauthorized'}.
+|ERROR|2018-07-09 10:10:41,764|Server reports an error: {'executed': False, 'error': 'Unauthorized'}.
+|ERROR|2018-07-09 10:10:41,765|Server reports an error: {'executed': False, 'error': 'Unauthorized'}.
+|ERROR|2018-07-09 10:10:57,042|Socket returns an error: ('Connection aborted.', OSError("(10054, 'WSAECONNRESET')",)).
+|ERROR|2018-07-09 10:12:16,607|Server reports an error: {'executed': False, 'error': 'Unauthorized'}.
+|ERROR|2018-07-09 10:12:16,643|Server reports an error: {'executed': False, 'error': 'Unauthorized'}.
+|ERROR|2018-07-09 10:12:16,658|Server reports an error: {'executed': False, 'error': 'Unauthorized'}.
+|ERROR|2018-07-09 10:12:16,658|Server reports an error: {'executed': False, 'error': 'Unauthorized'}.
+|ERROR|2018-07-09 10:12:16,658|Server reports an error: {'executed': False, 'error': 'Unauthorized'}.
+|ERROR|2018-07-09 10:13:29,541|Server reports an error: {'executed': False, 'error': 'Invalid from/to parameneters.'}.
+|ERROR|2018-07-09 10:14:15,528|Server reports an error: {'executed': False, 'error': 'Invalid from/to parameneters.'}.
+|ERROR|2018-07-09 10:42:07,052|Server reports an error: {'executed': False, 'error': 'Unauthorized'}.
+|ERROR|2018-07-09 10:42:07,068|Server reports an error: {'executed': False, 'error': 'Unauthorized'}.
+|ERROR|2018-07-09 10:42:07,068|Server reports an error: {'executed': False, 'error': 'Unauthorized'}.
+|ERROR|2018-07-09 10:42:07,099|Server reports an error: {'executed': False, 'error': 'Unauthorized'}.
+|ERROR|2018-07-09 10:42:07,099|Server reports an error: {'executed': False, 'error': 'Unauthorized'}.
+|ERROR|2018-07-09 10:42:07,099|Server reports an error: {'executed': False, 'error': 'Unauthorized'}.
+|ERROR|2018-07-09 10:42:07,099|Server reports an error: {'executed': False, 'error': 'Unauthorized'}.
+|ERROR|2018-07-09 10:42:07,099|Server reports an error: {'executed': False, 'error': 'Unauthorized'}.
+|ERROR|2018-07-09 10:42:07,130|Server reports an error: {'executed': False, 'error': 'Unauthorized'}.
+|ERROR|2018-07-09 10:42:07,130|Server reports an error: {'executed': False, 'error': 'Unauthorized'}.
+|ERROR|2018-07-09 10:42:07,130|Server reports an error: {'executed': False, 'error': 'Unauthorized'}.
+|ERROR|2018-07-09 10:42:07,130|Server reports an error: {'executed': False, 'error': 'Unauthorized'}.
+|ERROR|2018-07-09 10:42:07,161|Server reports an error: {'executed': False, 'error': 'Unauthorized'}.
+|ERROR|2018-07-09 11:02:41,386|Server reports an error: {'executed': False, 'error': 'Unauthorized'}.
